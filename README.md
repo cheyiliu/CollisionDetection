@@ -7,7 +7,7 @@
 * [way2-use-physics-engine](https://github.com/cheyiliu/All-in-One/wiki/cocos2d-x-3.3-020-%E7%A2%B0%E6%92%9E%E6%A3%80%E6%B5%8B2-%E5%88%A9%E7%94%A8%E7%89%A9%E7%90%86%E5%BC%95%E6%93%8E)
 
 # 效果图
-* way1-use-intersectsRect
+* way1-use-intersectsRect   
 ![CollisionDetection-way1-use-intersectsRect.gif](https://github.com/cheyiliu/All-in-One/blob/master/res/cocos2d/CollisionDetection-way1-use-intersectsRect.gif)
-* way2-use-physics-engine
+* way2-use-physics-engine   
 ![CollisionDetection-way2-use-physics-engine.gif](https://github.com/cheyiliu/All-in-One/blob/master/res/cocos2d/CollisionDetection-way2-use-physics-engine.gif)
