@@ -11,3 +11,5 @@
 ![CollisionDetection-way1-use-intersectsRect.gif](https://github.com/cheyiliu/All-in-One/blob/master/res/cocos2d/CollisionDetection-way1-use-intersectsRect.gif)
 * way2-use-physics-engine   
 ![CollisionDetection-way2-use-physics-engine.gif](https://github.com/cheyiliu/All-in-One/blob/master/res/cocos2d/CollisionDetection-way2-use-physics-engine.gif)
+* way3-use-physics-engine-filter(相同图案的是同一类，同一类不碰撞，异类才碰撞)
+![CollisionDetection-way3-use-physics-engine-filter.gif](https://github.com/cheyiliu/All-in-One/blob/master/res/cocos2d/CollisionDetection-way3-use-physics-engine-filter.gif)
