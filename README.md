@@ -15,3 +15,5 @@
 ![CollisionDetection-way2-use-physics-engine.gif](https://github.com/cheyiliu/All-in-One/blob/master/res/cocos2d/CollisionDetection-way2-use-physics-engine.gif)
 * way3-use-physics-engine-filter(相同图案的是同一类，同一类不碰撞，异类才碰撞)
 ![CollisionDetection-way3-use-physics-engine-filter.gif](https://github.com/cheyiliu/All-in-One/blob/master/res/cocos2d/CollisionDetection-way3-use-physics-engine-filter.gif)
+* way4-use-physics-engine-filter-大范围攻击-群攻
+![CollisionDetection-way4-use-physics-engine-filter-%E8%8C%83%E5%9B%B4%E6%94%BB%E5%87%BB.gif](https://github.com/cheyiliu/All-in-One/blob/master/res/cocos2d/CollisionDetection-way4-use-physics-engine-filter-%E8%8C%83%E5%9B%B4%E6%94%BB%E5%87%BB.gif)
